@@ -20,7 +20,8 @@ Neste laboratório, foi implantado um controlador central para identificar autom
 - Executar o processo de **Network Discovery** para identificar novos hosts na rede.
 - Documentar a topologia e o endereçamento IP da infraestrutura.
 
-<img width="768" height="303" alt="image" src="https://github.com/user-attachments/assets/137d1f1e-e23d-4a00-b82b-d166271652b2" />
+<img width="635" height="370" alt="image" src="https://github.com/user-attachments/assets/82194160-6eba-4787-8fbb-33523af94fb8" />
+
 
 ---
 
