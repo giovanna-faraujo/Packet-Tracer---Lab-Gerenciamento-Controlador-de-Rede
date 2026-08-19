@@ -6,7 +6,8 @@ Gerenciar uma rede de computadores de forma individual pode ser demorado e compl
 
 Neste laboratório, foi implantado um controlador central para identificar automaticamente os equipamentos da rede e monitorar a entrada de novos dispositivos sem fio (como tablets e smartphones).
 
-<img width="763" height="392" alt="image" src="https://github.com/user-attachments/assets/63ea5ffc-926e-4e2f-8fcf-3612ad445237" />
+<img width="1041" height="910" alt="image" src="https://github.com/user-attachments/assets/b19b506b-1bbc-450a-bb3e-ea58f9077647" />
+
 
 ---
 <img width="765" height="306" alt="image" src="https://github.com/user-attachments/assets/4a079134-857e-42bf-9d03-931923bcd0b4" />
