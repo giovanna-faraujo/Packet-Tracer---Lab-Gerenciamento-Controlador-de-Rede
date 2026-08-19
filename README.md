@@ -29,9 +29,6 @@ Neste laboratório, foi implantado um controlador central para identificar autom
 2. Conectou-se a interface `GigabitEthernet0` do controlador à porta `GigabitEthernet 1/0/19` do switch `Office-SW1` utilizando um cable directo (*Copper Straight-Through*).
 3. A partir do computador `Office-Admin`, verificou-se o endereço IP obtido via DHCP (`192.168.20.x`) e testou-se a comunicação com o controlador (`192.168.20.5`).
 
-<img width="767" height="293" alt="image" src="https://github.com/user-attachments/assets/ddd3b35f-894b-4258-b65e-d8b3b521e0af" />
-
-
 ---
 
 ### Parte 2: Acesso ao Painel Central (GUI)
