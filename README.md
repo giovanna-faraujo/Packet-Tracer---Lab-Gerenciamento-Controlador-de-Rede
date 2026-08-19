@@ -8,10 +8,6 @@ Neste laboratório, foi implantado um controlador central para identificar autom
 
 <img width="1041" height="910" alt="image" src="https://github.com/user-attachments/assets/b19b506b-1bbc-450a-bb3e-ea58f9077647" />
 
-
----
-<img width="765" height="306" alt="image" src="https://github.com/user-attachments/assets/4a079134-857e-42bf-9d03-931923bcd0b4" />
-
 ---
 
 ## Objetivos Técnicos
