@@ -17,8 +17,11 @@ Neste laboratório, foi implantado um controlador central para identificar autom
 - Executar o processo de **Network Discovery** para identificar novos hosts na rede.
 - Documentar a topologia e o endereçamento IP da infraestrutura.
 
-<img width="635" height="370" alt="image" src="https://github.com/user-attachments/assets/82194160-6eba-4787-8fbb-33523af94fb8" />
+<img width="311" height="312" alt="image" src="https://github.com/user-attachments/assets/2b0ef99b-d356-4ebe-b90e-19b9e61af4f6" />
 
+---
+
+<img width="635" height="370" alt="image" src="https://github.com/user-attachments/assets/82194160-6eba-4787-8fbb-33523af94fb8" />
 
 ---
 
@@ -38,9 +41,6 @@ Neste laboratório, foi implantado um controlador central para identificar autom
    - **Provisioning:** Gerenciamento e descoberta de ativos (*Network Device* e *Discovery*).
    - **Assurance:** Monitoramento e métricas de desempenho dos *Hosts*.
    - **Policy:** Configuração de políticas e regras da rede.
-
-<img width="771" height="322" alt="image" src="https://github.com/user-attachments/assets/7c51f6e9-c8bd-42a4-9ec8-9ef4d068ff89" />
-
 
 ---
 
