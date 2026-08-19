@@ -57,6 +57,8 @@ Neste laboratório, foi implantado um controlador central para identificar autom
 4. O controlador identificou com sucesso os novos dispositivos sem fio e atualizou a lista de hosts monitorados.
 
 <img width="680" height="467" alt="image" src="https://github.com/user-attachments/assets/455cf080-d12e-4785-998a-98ee685dafcb" />
+---
+<img width="1038" height="664" alt="image" src="https://github.com/user-attachments/assets/654182de-eb5d-4f18-a345-cc23772f41fc" />
 
 
 ---
