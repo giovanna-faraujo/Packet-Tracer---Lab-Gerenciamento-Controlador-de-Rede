@@ -39,10 +39,6 @@ Em redes tradicionais de computadores, o técnico precisava entrar aparelho por 
 <img width="635" height="370" alt="image" src="https://github.com/user-attachments/assets/82194160-6eba-4787-8fbb-33523af94fb8" />
 
 ---
-
-<img width="680" height="467" alt="image" src="https://github.com/user-attachments/assets/455cf080-d12e-4785-998a-98ee685dafcb" />
-
----
 <img width="1038" height="664" alt="image" src="https://github.com/user-attachments/assets/654182de-eb5d-4f18-a345-cc23772f41fc" />
 
 ---
