@@ -5,7 +5,7 @@ Instalação física e integração de um Network Controller corporativo em ambi
 
 ---
 
-## 1. O que é este projeto? (Explicado de forma simples)
+## 1. O que é este projeto?
 Pense em uma grande torre de controle de tráfego aéreo em um aeroporto internacional. Em vez de cada piloto precisar adivinhar onde estão os outros aviões ou conversar individualmente com cada pista pelo rádio, os operadores olham para uma tela única com radares em tempo real: eles sabem quem decolou, quem pousou, quais aeronaves estão se aproximando e qual pista está livre.
 
 Em redes tradicionais de computadores, o técnico precisava entrar aparelho por aparelho (switch por switch, roteador por roteador) digitando comandos para descobrir quem estava conectado. Com um Controlador de Rede (conceito moderno chamado de Redes Definidas por Software ou SDN), instalamos um equipamento que atua exatamente como essa torre de controle. Acessando uma página web amigável pelo navegador, o administrador de rede enxerga toda a topologia corporativa, identifica automaticamente novos celulares e tablets que entram no Wi-Fi e acompanha a saúde da infraestrutura de ponta a ponta sem intervenções manuais repetitivas.
