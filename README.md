@@ -1,6 +1,6 @@
 # Laboratório: Monitoramento e Gerenciamento com Controlador de Rede (SDN)
 
-## O que é este projeto? (Explicação Simples)
+## O que é este projeto?
 
 Gerenciar uma rede de computadores de forma individual pode ser demorado e complexo. O **Controlador de Rede** funciona como uma "torre de controle" ou um painel centralizado: em vez de configurar aparelho por aparelho, o administrador consegue visualizar, gerenciar e proteger toda a infraestrutura através de uma única tela no navegador.
 
