@@ -25,29 +25,6 @@ Em redes tradicionais de computadores, o técnico precisava entrar aparelho por 
 - **Competências Profissionais Evidenciadas:** Governança de ativos de TI, monitoramento proativo de infraestrutura, resolução metódica de incidentes de rede e operação de dashboards de controle corporativo.
 
 ---
-
-<img width="1041" height="910" alt="image" src="https://github.com/user-attachments/assets/b19b506b-1bbc-450a-bb3e-ea58f9077647" />
-
----
-
-
-<img width="311" height="312" alt="image" src="https://github.com/user-attachments/assets/2b0ef99b-d356-4ebe-b90e-19b9e61af4f6" />
-
----
-
-<img width="635" height="370" alt="image" src="https://github.com/user-attachments/assets/82194160-6eba-4787-8fbb-33523af94fb8" />
-
----
-
-#
-
-<img width="680" height="467" alt="image" src="https://github.com/user-attachments/assets/455cf080-d12e-4785-998a-98ee685dafcb" />
----
-<img width="1038" height="664" alt="image" src="https://github.com/user-attachments/assets/654182de-eb5d-4f18-a345-cc23772f41fc" />
-
-
----
-
 ## Resumo dos Endereços da Rede
 
 | Dispositivo | Interface / Papel | Endereço IP / Sub-rede |
@@ -57,7 +34,16 @@ Em redes tradicionais de computadores, o técnico precisava entrar aparelho por 
 | **Office-Admin** | Estação de Gerenciamento | `192.168.20.x /25` (DHCP) |
 | **Dispositivos Sem Fio** | Office-Tablet / Smartphone | `192.168.2.x /24` (DHCP) |
 
-<img width="1907" height="950" alt="image" src="https://github.com/user-attachments/assets/3bb73028-6785-42e0-8569-29a948007774" />
+---
+
+<img width="635" height="370" alt="image" src="https://github.com/user-attachments/assets/82194160-6eba-4787-8fbb-33523af94fb8" />
+
+---
+
+<img width="680" height="467" alt="image" src="https://github.com/user-attachments/assets/455cf080-d12e-4785-998a-98ee685dafcb" />
+
+---
+<img width="1038" height="664" alt="image" src="https://github.com/user-attachments/assets/654182de-eb5d-4f18-a345-cc23772f41fc" />
 
 ---
 
