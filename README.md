@@ -1,4 +1,4 @@
-# Implementação e Monitoramento de Redes com Controlador Centralizado (SDN) no Cisco Packet Tracer
+# Implementação e Monitoramento de Redes com Controlador Centralizado no Cisco Packet Tracer
 
 ## Resumo
 Instalação física e integração de um Network Controller corporativo em ambiente simulado para gerenciamento centralizado, descoberta automatizada de topologia e telemetria de clientes em tempo real.
