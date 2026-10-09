@@ -12,7 +12,7 @@ Em redes tradicionais de computadores, o técnico precisava entrar aparelho por 
 
 ---
 
-## 2. Objetivo e Valor para o Negócio
+## 2. Objetivo
 - **Problema Enfrentado:** Dificuldade em manter o inventário de ativos atualizado e lentidão para identificar novos dispositivos móveis que se conectam à rede corporativa por meio de auditorias manuais, gerando riscos de segurança por falta de visibilidade.
 - **Solução Aplicada:** Implementação física de um Network Controller conectado ao switch corporativo, integrando serviços de descoberta automatizada (Discovery) e rastreamento de hosts (Assurance) através de interface gráfica web.
 - **Impacto Prático:** Visibilidade em tempo real de 100% dos ativos conectados em painel único, redução do tempo de suporte e eliminação de pontos cegos de segurança na rede local.
